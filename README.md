@@ -1,2 +1,2 @@
 Emotional Analysis by Python 
-Used NLTK Package
+Using NLTK Package
